@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- drawable/ellipse_223.xml -->
+    <vector
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:aapt="http://schemas.android.com/aapt"
+        android:width="90dp"
+        android:height="91dp"
+        android:viewportWidth="90"
+        android:viewportHeight="91"
+        >
+        <group>
+            <clip-path
+                android:pathData="M1 1H89V90H1V1Z"
+                />
+        </group>
+        <group>
+            <clip-path
+                android:pathData="M0 0V91H90V0M1 1H89V90H1V1Z"
+                />
+        </group>
+    </vector>
+</selector>
